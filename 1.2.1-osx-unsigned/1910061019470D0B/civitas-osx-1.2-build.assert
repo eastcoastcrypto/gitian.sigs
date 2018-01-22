@@ -1,18 +1,18 @@
 --- !omap
-- out_manifest: ! 'c2fe29f0070e8cce5599e464ff983910c7667581f069924bf0253fea7e9e75f7  civitas-1.2.1-osx-unsigned.dmg
+- out_manifest: ! 'f905dc14472f69a89ccb0a4f81a7ae4755a753580e1e1bf35b8a67f987e92673  civitas-1.2.1-osx-unsigned.dmg
 
-    4c5c258524ffd029e75dc9c281a47226da875bc56a071bceb90a6802c26ae163  civitas-1.2.1-osx-unsigned.tar.gz
+    33ba40568c73e5b79214301ff8a81a58b963e129e400539912ffcb14596d6103  civitas-1.2.1-osx-unsigned.tar.gz
 
-    8e4fc4c4bb1c1dc1ae2454eef74828bea7ce04b7ff4c778bacdf866e7d2bd9f9  civitas-1.2.1-osx64.tar.gz
+    34dad0200114bfa57add2663202fea29428ca6fb5c437c924dc9211693042b16  civitas-1.2.1-osx64.tar.gz
 
-    38d9cb935417bb53e6de0aa8ed89debe02afc855d1b7ada26f05e15c2b6b4883  src/civitas-1.2.1.tar.gz
+    02bce4cc001c5414e59be7cba91a509828c32b6d7c1a258e9033d3cf22f62046  src/civitas-1.2.1.tar.gz
 
 '
 - in_manifest: ! '89e09c9261f89aa2e5800faefed643eee67cf45a5bb59a9b2a7b693a0166133f  civitas-osx-1.2-desc.yml
 
     e92a88ccd82f5067a52585033dbcd3d858d7a5324e2f6bd866f4d8f6b7e8d23d  MacOSX10.11.sdk.tar.gz
 
-    git:5f9c575dd68abcee7b9eab9130d98f76f317ed04 civitas'
+    git:94f8192e5fa05d43b1c0fb63dd65b25daa5fdc70 civitas'
 - base_manifests: !omap
   - trusty-amd64: ! '1461ce364a68db36190a6981ad9e3889c8a5286e809e45c6e34a720905de46a4  adduser_3.113+nmu3ubuntu3_all.deb
 
@@ -1005,6 +1005,8 @@
       5af94dbfbf9d040c3193f31fff178b4615f68915e2ae6fe8725af05bbb58c433  libxtables10_1.4.21-1ubuntu1_amd64.deb
 
       a2305330ac0e945e5ecd264d99604f4dd0b028c3147ba046969164798c82c5ef  linux-libc-dev_3.13.0-139.188_amd64.deb
+
+      7b20fc3539bd4c942f44e74ef4b69c10d8e8947bff0f0ef324c335705df927e9  linux-libc-dev_3.13.0-141.190_amd64.deb
 
       1a5d88e47eaeb28456e11449fd42244e7af7ccfc9d12a36ede2afb94d19f37d7  linux-libc-dev_3.13.0-24.46_amd64.deb
 
