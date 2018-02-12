@@ -1,22 +1,22 @@
 --- !omap
-- out_manifest: ! 'eead2749055e475f5d49803ab2e2df6f84bdee53d9393583b11b42c5cd60cd3c  civitas-1.2.1-arm-linux-gnueabihf-debug.tar.gz
+- out_manifest: ! '7c1c91d10d902302ba698d9733c3ee8ca433d9016bf0b6e5ba216c9199c7cfe4  civitas-1.2.1-arm-linux-gnueabihf-debug.tar.gz
 
-    f9e2f7a6f7ef801f1335b91462e606003381bec033ad189e33df0925be4c48f6  civitas-1.2.1-arm-linux-gnueabihf.tar.gz
+    d950f71adb46532d73acb4362fc1f61ed080bb3e6626e7220bc1e7eb95093535  civitas-1.2.1-arm-linux-gnueabihf.tar.gz
 
-    9e7aefce55d44956ffbe95e076841892fc0bb679acc3cc9b70247aa0667ecba2  civitas-1.2.1-i686-pc-linux-gnu-debug.tar.gz
+    afcfae182bba65aba9305d4d010992bc6bf8452c1da197d009b8898254edf120  civitas-1.2.1-i686-pc-linux-gnu-debug.tar.gz
 
-    3464177c62f62a733e582bc190fefd9cd221bf71460f16fcab1f85db00ab7c0f  civitas-1.2.1-i686-pc-linux-gnu.tar.gz
+    a3da522041092471cc90831b0efe2d6e38d1103ac201fb8990cabfaeaeb8fa18  civitas-1.2.1-i686-pc-linux-gnu.tar.gz
 
-    c8e9e17cb3d24522cd055e0416d39c5e26595d1a3f9a1766b2abb30325be012e  civitas-1.2.1-x86_64-linux-gnu-debug.tar.gz
+    f8741f29bd8eed74fbb4d5e99b960c9195f3041b193dcd56e9b849805eeec3b0  civitas-1.2.1-x86_64-linux-gnu-debug.tar.gz
 
-    07b5665bc9a8aa894f591b5a4ec80fa983e23eb98e4cf05a0ed58a7b525e41fd  civitas-1.2.1-x86_64-linux-gnu.tar.gz
+    f933ace9b694fcc2f79911f489674ed1004caa4a8e70980fb55c4ad0006b1d30  civitas-1.2.1-x86_64-linux-gnu.tar.gz
 
     0df17bae929aed5d8b9a6ed9d7c53fca921fec04a51bc252b7f8c2673f7c7e06  src/civitas-1.2.1.tar.gz
 
 '
 - in_manifest: ! 'df9f5ad0b3a114eab063dfd49afc6e1b2078c794d093b88a4c984c6f693605e9  civitas-linux-1.2-desc.yml
 
-    git:94f8192e5fa05d43b1c0fb63dd65b25daa5fdc70 civitas'
+    git:d8f8b5ed584a219f29cb3df0fdc04879dd5f5f83 civitas'
 - base_manifests: !omap
   - trusty-amd64: ! '1461ce364a68db36190a6981ad9e3889c8a5286e809e45c6e34a720905de46a4  adduser_3.113+nmu3ubuntu3_all.deb
 
@@ -1009,6 +1009,8 @@
       5af94dbfbf9d040c3193f31fff178b4615f68915e2ae6fe8725af05bbb58c433  libxtables10_1.4.21-1ubuntu1_amd64.deb
 
       a2305330ac0e945e5ecd264d99604f4dd0b028c3147ba046969164798c82c5ef  linux-libc-dev_3.13.0-139.188_amd64.deb
+
+      7b20fc3539bd4c942f44e74ef4b69c10d8e8947bff0f0ef324c335705df927e9  linux-libc-dev_3.13.0-141.190_amd64.deb
 
       1a5d88e47eaeb28456e11449fd42244e7af7ccfc9d12a36ede2afb94d19f37d7  linux-libc-dev_3.13.0-24.46_amd64.deb
 
